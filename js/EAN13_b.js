@@ -1,3 +1,5 @@
+window.a=50;
+
 window.EAN13 = function(code) {
 				this.code = code;
 

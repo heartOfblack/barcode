@@ -1,4 +1,4 @@
-var window.code128 = function(code) {
+window.code128 = function(code) {
 				this.code = code;
 				this.BARS = [
 						212222, 222122, 222221, 121223, 121322, 131222, 122213,
